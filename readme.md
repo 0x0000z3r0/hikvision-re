@@ -6,5 +6,5 @@ This repository provides **tools, firmware, and documentation** for the reverse 
 
 ## Table of Contents
 
-- [DS-2CD2446G2-I](documents/ds-2cd2446g2-i.md)
+- [DS-2CD2443G2-I](documents/ds-2cd2443g2-i.md)
 
