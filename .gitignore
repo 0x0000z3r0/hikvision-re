@@ -1,2 +1,8 @@
 *.fw
+*.log
+*.id*
+*.nam
+*.til
+*.$$$
+*.i64
 extractions
